@@ -57,7 +57,7 @@
   },
   "devDependencies": {
     "ajv": "^6.9.1",
-    "electron": "^4.2.12",
+    "electron": "^9.4.0",
     "electron-builder": "^22.4.1",
     "electron-builder-squirrel-windows": "^22.4.1",
     "electron-download-tf": "^4.3.4",
